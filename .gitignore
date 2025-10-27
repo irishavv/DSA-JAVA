@@ -1,0 +1,13 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+out/
+*.iml
+
+# Ignore other build files or temporary files
+*.class
+*.log
+*.tmp
+*.DS_Store
+
+# Only include src folder
+!src/
